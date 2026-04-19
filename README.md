@@ -1,6 +1,6 @@
 # Independent Restaurants Experiencing a 30%+ Crash in Foot Traffic & Sentiment This Quarter in Michigan
 
-> Free BeamStation sample export with 85 rows and masked direct-contact fields.
+> Free BeamStation sample export with 96 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `807460` |
 | Location | Michigan |
 | Category | Food and Drink |
-| Full dataset size | 858 records |
-| Free sample size | 85 records (9.91%) |
-| Last export | 2026-04-09T18:15:47.795561+00:00 |
+| Full dataset size | 961 records |
+| Free sample size | 96 records (9.99%) |
+| Last export | 2026-04-16T21:28:03.370803+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/independent-restaurants-experiencing-a-30-crash-in-foot-traffic-sentiment-this-qua-sample-807460/releases/download/sample-latest/beamstation_807460_food_and_drink-us-mi_SAMPLE_DIST.csv) |
 
 ## What is in this sample
